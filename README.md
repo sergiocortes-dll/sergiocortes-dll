@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elcheryu-u.elcheryu-u&right_color=hotpink"  />
 </div>
 
-<h1 align="left">Hi! I'm elchery(u.u/u-u/u_u)</h1>
+<h1 align="left">Hi! I'm Sergio Cortes</h1>
 
 Front-end developer with back-end aspirations
 
