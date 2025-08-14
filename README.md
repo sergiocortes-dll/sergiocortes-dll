@@ -12,11 +12,11 @@ Front-end developer with back-end aspirations
   <img align="right" height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
 </picture>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=elcheryu-u&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=elcheryu-u&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=sergiocortes-dll&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=sergiocortes-dll&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elcheryu-u&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=elcheryu-u&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sergiocortes-dll&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sergiocortes-dll&locale=en&hide_title=true&layout=compact&card_width=320&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ***
 
