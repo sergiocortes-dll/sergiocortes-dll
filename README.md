@@ -21,11 +21,8 @@ Front-end developer with back-end aspirations
 ***
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sergiocortes-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/elcheryu_u" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="32" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/sergiocortes-dll/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sergiocortes-dll/sergiocortes-dll/64dc25f2cd9823450c356971a76acb15ce91680c/images/linkedin.png" width="50" height="32" alt="linkedin logo"  />
   </a>
 </div>
 
