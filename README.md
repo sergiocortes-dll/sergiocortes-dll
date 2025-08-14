@@ -22,7 +22,7 @@ Front-end developer with back-end aspirations
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sergiocortes-dll/" target="_blank">
-    <img src=https://github.com/sergiocortes-dll/sergiocortes-dll/blob/fd731c66c51572ca919a2eff243e8aaf3266ee5c/images/linkedin.png" width="50" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/sergiocortes-dll/sergiocortes-dll/refs/heads/master/images/linkedin.png" width="50" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
